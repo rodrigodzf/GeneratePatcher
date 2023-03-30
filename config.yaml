@@ -1,0 +1,6 @@
+model: "gpt-3.5-turbo"
+temperature: 0
+max_tokens: 2000
+pd_path: "/Applications/Pd-0.53-2.app/Contents/Resources/bin"
+receive_patcher_path: "./receive.pd"
+api_key: "your_api_key"
