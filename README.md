@@ -1,5 +1,7 @@
 # GeneratePatcher
 
+![output](https://user-images.githubusercontent.com/3747187/228944882-05a99609-e49b-4908-9cf5-613dc1196355.gif)
+
 ## About
 
 GeneratePatcher is a python script that generates a Pure Data patcher using one of OpenAI's LLMs. It uses the OpenAI API to communicate with the LLM. The model can be set in the `config.yaml` file, as well as other settings.
